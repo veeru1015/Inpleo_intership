@@ -26,3 +26,5 @@ plt.title('Points per game of all NBA Players with Varying Minutes')
 plt.xlabel('Minutes per Game')
 plt.ylabel('Points per Game')
 plt.show()
+
+print('Hii ')
